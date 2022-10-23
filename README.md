@@ -1,6 +1,6 @@
 # Linux-Terminal-File-Explorer
 <br/>
-Objective:<br/>
+<b>Objective:</b><br/>
 Build a fully functional File Explorer Application, with a restricted feature set.<br/>
 Prerequisites:<br/>
 1. Basic usage and architectural know-how of file explorer features<br/>
